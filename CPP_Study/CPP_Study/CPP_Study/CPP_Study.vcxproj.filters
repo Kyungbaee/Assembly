@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Study.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="boolean.cpp">
+    <ClCompile Include="CPP_Study2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
